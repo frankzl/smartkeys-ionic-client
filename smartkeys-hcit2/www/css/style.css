@@ -1,0 +1,28 @@
+/* Empty. Add your own CSS if you like */
+
+.scroll{
+    height: 100%;
+}
+
+#keys{
+    height: 100%;
+}
+
+.keyButton {
+    display:block;
+    width:100px;
+    height:100px;
+    line-height:50px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background: #464646;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+}
+.keyButton:hover {
+    background: #262626;
+}
